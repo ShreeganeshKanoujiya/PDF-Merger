@@ -29,3 +29,17 @@ A user-friendly Python desktop app to merge multiple PDF files using a modern, m
 ```bash
 pip install PyPDF2
 ```
+
+### Run the App
+
+```bash
+python pdf_merger_gui.py
+```
+
+---
+
+## 🛠️ Technologies Used
+
+- Tkinter – Python's built-in GUI library
+- PyPDF2 – PDF reading/writing/merging
+- OS – To work with file paths and names
